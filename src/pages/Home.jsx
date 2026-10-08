@@ -4,6 +4,7 @@ import { useLocation } from 'react-router-dom'
 import FamilyCards from '../components/FamilyCards.jsx'
 import Hero from '../components/Hero.jsx'
 import LiveDemos from '../components/LiveDemos.jsx'
+import ParallaxBand from '../components/ParallaxBand.jsx'
 import ProductTicker from '../components/ProductTicker.jsx'
 import { homeCta } from '../data/solutionContent.js'
 
@@ -31,6 +32,8 @@ export default function Home() {
       <ProductTicker />
 
       <FamilyCards />
+
+      <ParallaxBand />
 
       <LiveDemos />
 

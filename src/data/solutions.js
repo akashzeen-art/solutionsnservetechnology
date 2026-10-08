@@ -25,8 +25,8 @@ export const categories = [
     id: 'offers-enablement',
     title: 'Offers Enablement',
     icon: Gift,
-    accent: '#ea580c',
-    gradient: 'linear-gradient(45deg, #c2410c 0%, #f97316 100%)',
+    accent: '#4f46e5',
+    gradient: 'linear-gradient(45deg, #4338ca 0%, #818cf8 100%)',
     tagline: 'For smarter offers',
     blurb: 'Network capabilities that let operators launch, target and deliver offers in real time.',    intro: 'Enabling Smarter Offers, Powered by Intelligent Network Capabilities.',
     items: [
@@ -80,8 +80,8 @@ export const categories = [
     id: 'core-vas',
     title: 'Core VAS',
     icon: Settings,
-    accent: '#c2410c',
-    gradient: 'linear-gradient(45deg, #7c2d12 0%, #c2410c 55%, #ea580c 100%)',
+    accent: '#7c3aed',
+    gradient: 'linear-gradient(45deg, #4c1d95 0%, #7c3aed 55%, #a78bfa 100%)',
     tagline: 'For seamless calling',
     blurb: 'Call-completion services that keep subscribers connected, even when a call can’t go through.',    intro:
       'We ensure seamless communication even when calls can’t connect — boosting subscriber satisfaction, retention, and network usage.',
@@ -108,8 +108,8 @@ export const categories = [
     id: 'vas-digital',
     title: 'VAS & Digital',
     icon: Globe,
-    accent: '#d97706',
-    gradient: 'linear-gradient(45deg, #b45309 0%, #f59e0b 100%)',
+    accent: '#9333ea',
+    gradient: 'linear-gradient(45deg, #6b21a8 0%, #c084fc 100%)',
     tagline: 'For digital growth',
     blurb: 'Flexible platforms to create, integrate and scale value-added digital services quickly.',    intro:
       'Engineered for flexibility, rapid integration, and high ROI, our platform helps you stay competitive in a fast-evolving digital landscape.',
@@ -152,8 +152,8 @@ export const categories = [
     id: 'mobile-advertisement',
     title: 'Mobile Advertisement',
     icon: Megaphone,
-    accent: '#9a3412',
-    gradient: 'linear-gradient(45deg, #9a3412 0%, #dc5a12 55%, #fb923c 100%)',
+    accent: '#c026d3',
+    gradient: 'linear-gradient(45deg, #86198f 0%, #c026d3 55%, #e879f9 100%)',
     tagline: 'For high-reach campaigns',
     blurb: 'Bulk SMS, USSD Push, OBD and Balance + campaigns that reach every mobile user.',    intro:
       'Unlock powerful, high-reach engagement through Balance Plus messages, USSD Push, and Bulk SMS campaigns.',
